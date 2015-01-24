@@ -3,3 +3,5 @@ This is a text file.
 I added a paragraph.
 
 I added another paragraph.
+
+Yet another paragraph.
